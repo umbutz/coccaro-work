@@ -27,15 +27,10 @@ h2 {
 li {
     font-style: italic;
     color: #374950;
-    font-family: 'Source Serif Pro';
 }
 
 ul {
     list-style-type: none;
-}
-
-p {
-    font-family: 'Source Serif Pro';
 }
 
 .e {
@@ -74,10 +69,6 @@ p {
     font-size: 45px;
     display: inline;
     text-decoration: 2px underline #e84118;
-}
-
-.text {
-    font-family: 'Source Serif Pro';
 }
 
 .backg {
