@@ -125,7 +125,7 @@ main {
     filter: contrast(120%);
 }
 
-#primeira-parte {
+.primeira-parte {
     margin: 0 0 10px 0;
     font-size: 24px;
 }
